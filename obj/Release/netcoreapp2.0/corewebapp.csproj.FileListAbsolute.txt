@@ -1,0 +1,11 @@
+D:\Events\Synergetics\VolumeMountDemo\CoreWebApp\corewebapp\bin\release\netcoreapp2.0\corewebapp.deps.json
+D:\Events\Synergetics\VolumeMountDemo\CoreWebApp\corewebapp\bin\release\netcoreapp2.0\corewebapp.runtimeconfig.json
+D:\Events\Synergetics\VolumeMountDemo\CoreWebApp\corewebapp\bin\release\netcoreapp2.0\corewebapp.runtimeconfig.dev.json
+D:\Events\Synergetics\VolumeMountDemo\CoreWebApp\corewebapp\bin\release\netcoreapp2.0\corewebapp.dll
+D:\Events\Synergetics\VolumeMountDemo\CoreWebApp\corewebapp\bin\release\netcoreapp2.0\corewebapp.pdb
+D:\Events\Synergetics\VolumeMountDemo\CoreWebApp\corewebapp\obj\release\netcoreapp2.0\corewebapp.csprojAssemblyReference.cache
+D:\Events\Synergetics\VolumeMountDemo\CoreWebApp\corewebapp\obj\release\netcoreapp2.0\corewebapp.csproj.CoreCompileInputs.cache
+D:\Events\Synergetics\VolumeMountDemo\CoreWebApp\corewebapp\obj\release\netcoreapp2.0\corewebapp.AssemblyInfoInputs.cache
+D:\Events\Synergetics\VolumeMountDemo\CoreWebApp\corewebapp\obj\release\netcoreapp2.0\corewebapp.AssemblyInfo.cs
+D:\Events\Synergetics\VolumeMountDemo\CoreWebApp\corewebapp\obj\release\netcoreapp2.0\corewebapp.dll
+D:\Events\Synergetics\VolumeMountDemo\CoreWebApp\corewebapp\obj\release\netcoreapp2.0\corewebapp.pdb

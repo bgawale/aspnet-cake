@@ -13065,11 +13065,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Events\\Synergetics\\Test\\corewebapp\\corewebapp\\corewebapp.csproj",
+      "projectUniqueName": "D:\\Events\\Synergetics\\VolumeMountDemo\\CoreWebApp\\corewebapp\\corewebapp.csproj",
       "projectName": "corewebapp",
-      "projectPath": "D:\\Events\\Synergetics\\Test\\corewebapp\\corewebapp\\corewebapp.csproj",
+      "projectPath": "D:\\Events\\Synergetics\\VolumeMountDemo\\CoreWebApp\\corewebapp\\corewebapp.csproj",
       "packagesPath": "C:\\Users\\BhushanGawale\\.nuget\\packages\\",
-      "outputPath": "D:\\Events\\Synergetics\\Test\\corewebapp\\corewebapp\\obj\\",
+      "outputPath": "D:\\Events\\Synergetics\\VolumeMountDemo\\CoreWebApp\\corewebapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

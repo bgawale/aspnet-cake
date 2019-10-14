@@ -1,0 +1,3 @@
+D:\Events\Synergetics\Test\corewebapp\corewebapp\obj\Debug\netcoreapp2.0\corewebapp.csproj.CoreCompileInputs.cache
+D:\Events\Synergetics\Test\corewebapp\corewebapp\obj\Debug\netcoreapp2.0\corewebapp.AssemblyInfoInputs.cache
+D:\Events\Synergetics\Test\corewebapp\corewebapp\obj\Debug\netcoreapp2.0\corewebapp.AssemblyInfo.cs
